@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HujiLawJudgmentsPractice.WebUI", "HujiLawJudgmentsPractice.WebUI\HujiLawJudgmentsPractice.WebUI.csproj", "{9A87697F-5BB5-4CE9-AFE8-1BD19696BA5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HujiLawJudgmentsPractice.DocumentDumpTools", "HujiLawJudgmentsPractice.DocumentDumpTools\HujiLawJudgmentsPractice.DocumentDumpTools.csproj", "{207CB9C2-E482-49CD-B377-CAA19F93C6AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HujiLawJudgmentsPractice.CmdDumpTools", "HujiLawJudgmentsPractice.CmdDumpTools\HujiLawJudgmentsPractice.CmdDumpTools.csproj", "{FC0AC1C8-306F-409F-9232-1AD92A196255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HujiLawJudgmentsPractice.FormsUI", "HujiLawJudgmentsPractice.FormsUI\HujiLawJudgmentsPractice.FormsUI.csproj", "{CC53DE1D-94FF-4F6A-925D-11570E29CC82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A87697F-5BB5-4CE9-AFE8-1BD19696BA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A87697F-5BB5-4CE9-AFE8-1BD19696BA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A87697F-5BB5-4CE9-AFE8-1BD19696BA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A87697F-5BB5-4CE9-AFE8-1BD19696BA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{207CB9C2-E482-49CD-B377-CAA19F93C6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207CB9C2-E482-49CD-B377-CAA19F93C6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207CB9C2-E482-49CD-B377-CAA19F93C6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207CB9C2-E482-49CD-B377-CAA19F93C6AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC0AC1C8-306F-409F-9232-1AD92A196255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC0AC1C8-306F-409F-9232-1AD92A196255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC0AC1C8-306F-409F-9232-1AD92A196255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC0AC1C8-306F-409F-9232-1AD92A196255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC53DE1D-94FF-4F6A-925D-11570E29CC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC53DE1D-94FF-4F6A-925D-11570E29CC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC53DE1D-94FF-4F6A-925D-11570E29CC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC53DE1D-94FF-4F6A-925D-11570E29CC82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
